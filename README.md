@@ -1,2 +1,2 @@
 # CS661
-Big Data Analytics
+Big Data Visual Analytics
